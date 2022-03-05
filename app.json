@@ -1,8 +1,8 @@
 {
-  "name": "vmess or vles",
-  "description": "vmess or vles",
+  "name": "m or l",
+  "description": "m or l",
   "keywords": [
-    "vmess or vles"
+    "m or l"
   ],
   "env": {
     "PROTOCOL": {
@@ -22,8 +22,8 @@
     }
    
   },
-  "website": "https://github.com/louyour/nginx-Manual",
-  "repository": "https://github.com/louyour/nginx-Manual",
+  "website": "https://github.com/sg545re/Halo-0304",
+  "repository": "https://github.com/sg545re/Halo-0304",
   "stack": "container",
   "features": [
     "runtime-dyno-metadata"
