@@ -1,8 +1,8 @@
 {
-  "name": "m or l",
-  "description": "m or l",
+  "name": "m",
+  "description": "m",
   "keywords": [
-    "m or l"
+    "m"
   ],
   "env": {
     "PROTOCOL": {
@@ -22,8 +22,8 @@
     }
    
   },
-  "website": "https://github.com/sg545re/Halo-0304",
-  "repository": "https://github.com/sg545re/Halo-0304",
+  "website": "https://github.com/sg545re/Halo0304",
+  "repository": "https://github.com/sg545re/Halo0304",
   "stack": "container",
   "features": [
     "runtime-dyno-metadata"
